@@ -98,9 +98,12 @@ class Validator:
         self, topic: str, payload: bytes | str, now: datetime | None = None
     ) -> Accepted | Rejected:
         now = now or datetime.now(timezone.utc)
-        raw = payload.decode("utf-8", errors="replace") if isinstance(payload, bytes) else payload
+        if isinstance(payload, bytes):
+            raw = payload.decode("utf-8", errors="replace")
+        else:
+            raw = payload
 
-        def reject(reason: str, detail: str = "", meter_id: str | None = None) -> Rejected:
+        def reject(reason: str, detail: str = "", meter_id: str | None = None):
             return Rejected(now, topic, raw, reason, detail, meter_id)
 
         try:
@@ -114,7 +117,9 @@ class Validator:
             reading = Reading.model_validate(data)
         except ValidationError as exc:
             fields = ",".join(".".join(str(p) for p in e["loc"]) for e in exc.errors())
-            return reject(Reason.SCHEMA_ERROR, fields, data.get("meter_id") if isinstance(data.get("meter_id"), str) else None)
+            mid = data.get("meter_id")
+            mid = mid if isinstance(mid, str) else None
+            return reject(Reason.SCHEMA_ERROR, fields, mid)
 
         mid = reading.meter_id
         parsed = parse_topic(topic)
@@ -126,9 +131,8 @@ class Validator:
         if meter is None:
             return reject(Reason.UNKNOWN_METER, "", mid)
         if meter.district != topic_district:
-            return reject(
-                Reason.DISTRICT_MISMATCH, f"topic={topic_district} registry={meter.district}", mid
-            )
+            detail = f"topic={topic_district} registry={meter.district}"
+            return reject(Reason.DISTRICT_MISMATCH, detail, mid)
 
         for field, (lo, hi) in LIMITS.items():
             value = getattr(reading, field)
@@ -164,5 +168,6 @@ class Validator:
                     mid,
                 )
 
-        self.state[mid] = MeterState(reading.ts, max(reading.energy_kwh, prev.last_energy_kwh if prev else 0.0))
+        last_energy = max(reading.energy_kwh, prev.last_energy_kwh if prev else 0.0)
+        self.state[mid] = MeterState(reading.ts, last_energy)
         return Accepted(reading, meter)
