@@ -1,0 +1,4 @@
+replicas,rate_target,sent,rate_sent,received_at_stop,rate_collected,lag_msgs,drain_s
+1,2000,80000,2000,80000,2000,0,1
+1,3000,120000,3000,120000,3000,0,1
+1,4000,160000,4000,158967,3974,1033,3

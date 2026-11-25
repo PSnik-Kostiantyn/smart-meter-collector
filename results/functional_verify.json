@@ -1,0 +1,28 @@
+{
+ "readings_in_db": 47501,
+ "rejected_in_db": 2499,
+ "rejected_by_reason": {
+  "energy_decreased": 302,
+  "future_timestamp": 310,
+  "inconsistent_power": 287,
+  "invalid_json": 345,
+  "out_of_range": 330,
+  "schema_error": 303,
+  "topic_mismatch": 315,
+  "unknown_meter": 307
+ },
+ "sent_ok": 47491,
+ "sent_bad": 2509,
+ "lost_ok": -10,
+ "lost_bad": 10,
+ "bad_by_kind_sent": {
+  "schema_error": 303,
+  "out_of_range": 330,
+  "inconsistent_power": 287,
+  "future_timestamp": 310,
+  "invalid_json": 345,
+  "energy_decreased": 312,
+  "unknown_meter": 307,
+  "topic_mismatch": 315
+ }
+}

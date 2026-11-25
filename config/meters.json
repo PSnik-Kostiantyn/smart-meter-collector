@@ -1,0 +1,7002 @@
+[
+ {
+  "meter_id": "M-000001",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-09"
+ },
+ {
+  "meter_id": "M-000002",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-04"
+ },
+ {
+  "meter_id": "M-000003",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-14"
+ },
+ {
+  "meter_id": "M-000004",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-08"
+ },
+ {
+  "meter_id": "M-000005",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-09-07"
+ },
+ {
+  "meter_id": "M-000006",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-04-15"
+ },
+ {
+  "meter_id": "M-000007",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-23"
+ },
+ {
+  "meter_id": "M-000008",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-03-07"
+ },
+ {
+  "meter_id": "M-000009",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-02-03"
+ },
+ {
+  "meter_id": "M-000010",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-06-20"
+ },
+ {
+  "meter_id": "M-000011",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-15"
+ },
+ {
+  "meter_id": "M-000012",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-18"
+ },
+ {
+  "meter_id": "M-000013",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-07"
+ },
+ {
+  "meter_id": "M-000014",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-11-08"
+ },
+ {
+  "meter_id": "M-000015",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-28"
+ },
+ {
+  "meter_id": "M-000016",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-21"
+ },
+ {
+  "meter_id": "M-000017",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-12"
+ },
+ {
+  "meter_id": "M-000018",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-22"
+ },
+ {
+  "meter_id": "M-000019",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-24"
+ },
+ {
+  "meter_id": "M-000020",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-07-09"
+ },
+ {
+  "meter_id": "M-000021",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2021-11-11"
+ },
+ {
+  "meter_id": "M-000022",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-27"
+ },
+ {
+  "meter_id": "M-000023",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-09"
+ },
+ {
+  "meter_id": "M-000024",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-21"
+ },
+ {
+  "meter_id": "M-000025",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-09"
+ },
+ {
+  "meter_id": "M-000026",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-19"
+ },
+ {
+  "meter_id": "M-000027",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-08"
+ },
+ {
+  "meter_id": "M-000028",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2020-09-16"
+ },
+ {
+  "meter_id": "M-000029",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-05"
+ },
+ {
+  "meter_id": "M-000030",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-03"
+ },
+ {
+  "meter_id": "M-000031",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-09"
+ },
+ {
+  "meter_id": "M-000032",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2018-11-24"
+ },
+ {
+  "meter_id": "M-000033",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-11-11"
+ },
+ {
+  "meter_id": "M-000034",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-15"
+ },
+ {
+  "meter_id": "M-000035",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-09-25"
+ },
+ {
+  "meter_id": "M-000036",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-10"
+ },
+ {
+  "meter_id": "M-000037",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-12"
+ },
+ {
+  "meter_id": "M-000038",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-11"
+ },
+ {
+  "meter_id": "M-000039",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-27"
+ },
+ {
+  "meter_id": "M-000040",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-08"
+ },
+ {
+  "meter_id": "M-000041",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-02-24"
+ },
+ {
+  "meter_id": "M-000042",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-25"
+ },
+ {
+  "meter_id": "M-000043",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-06"
+ },
+ {
+  "meter_id": "M-000044",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-04-18"
+ },
+ {
+  "meter_id": "M-000045",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-10"
+ },
+ {
+  "meter_id": "M-000046",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-08-17"
+ },
+ {
+  "meter_id": "M-000047",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-04-03"
+ },
+ {
+  "meter_id": "M-000048",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-10-08"
+ },
+ {
+  "meter_id": "M-000049",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-03"
+ },
+ {
+  "meter_id": "M-000050",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-02-17"
+ },
+ {
+  "meter_id": "M-000051",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-18"
+ },
+ {
+  "meter_id": "M-000052",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-26"
+ },
+ {
+  "meter_id": "M-000053",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-04-04"
+ },
+ {
+  "meter_id": "M-000054",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-14"
+ },
+ {
+  "meter_id": "M-000055",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-11-21"
+ },
+ {
+  "meter_id": "M-000056",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2019-01-13"
+ },
+ {
+  "meter_id": "M-000057",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-07"
+ },
+ {
+  "meter_id": "M-000058",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-14"
+ },
+ {
+  "meter_id": "M-000059",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-28"
+ },
+ {
+  "meter_id": "M-000060",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-09-04"
+ },
+ {
+  "meter_id": "M-000061",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-25"
+ },
+ {
+  "meter_id": "M-000062",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-16"
+ },
+ {
+  "meter_id": "M-000063",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-06"
+ },
+ {
+  "meter_id": "M-000064",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-26"
+ },
+ {
+  "meter_id": "M-000065",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-07-23"
+ },
+ {
+  "meter_id": "M-000066",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-03-07"
+ },
+ {
+  "meter_id": "M-000067",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-24"
+ },
+ {
+  "meter_id": "M-000068",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-02"
+ },
+ {
+  "meter_id": "M-000069",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-17"
+ },
+ {
+  "meter_id": "M-000070",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-20"
+ },
+ {
+  "meter_id": "M-000071",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-04"
+ },
+ {
+  "meter_id": "M-000072",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-10-20"
+ },
+ {
+  "meter_id": "M-000073",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-22"
+ },
+ {
+  "meter_id": "M-000074",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-05-07"
+ },
+ {
+  "meter_id": "M-000075",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-09"
+ },
+ {
+  "meter_id": "M-000076",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-11"
+ },
+ {
+  "meter_id": "M-000077",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-01-15"
+ },
+ {
+  "meter_id": "M-000078",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-18"
+ },
+ {
+  "meter_id": "M-000079",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-03-12"
+ },
+ {
+  "meter_id": "M-000080",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-06-10"
+ },
+ {
+  "meter_id": "M-000081",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-26"
+ },
+ {
+  "meter_id": "M-000082",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-11-27"
+ },
+ {
+  "meter_id": "M-000083",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-09"
+ },
+ {
+  "meter_id": "M-000084",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-18"
+ },
+ {
+  "meter_id": "M-000085",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-07"
+ },
+ {
+  "meter_id": "M-000086",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-21"
+ },
+ {
+  "meter_id": "M-000087",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-05-28"
+ },
+ {
+  "meter_id": "M-000088",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-02"
+ },
+ {
+  "meter_id": "M-000089",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-09"
+ },
+ {
+  "meter_id": "M-000090",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-23"
+ },
+ {
+  "meter_id": "M-000091",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-03"
+ },
+ {
+  "meter_id": "M-000092",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-09-02"
+ },
+ {
+  "meter_id": "M-000093",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-05"
+ },
+ {
+  "meter_id": "M-000094",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-12"
+ },
+ {
+  "meter_id": "M-000095",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-04"
+ },
+ {
+  "meter_id": "M-000096",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-24"
+ },
+ {
+  "meter_id": "M-000097",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-26"
+ },
+ {
+  "meter_id": "M-000098",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-06"
+ },
+ {
+  "meter_id": "M-000099",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-26"
+ },
+ {
+  "meter_id": "M-000100",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-06"
+ },
+ {
+  "meter_id": "M-000101",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-28"
+ },
+ {
+  "meter_id": "M-000102",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-07"
+ },
+ {
+  "meter_id": "M-000103",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-10"
+ },
+ {
+  "meter_id": "M-000104",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-04-01"
+ },
+ {
+  "meter_id": "M-000105",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-09"
+ },
+ {
+  "meter_id": "M-000106",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-06-21"
+ },
+ {
+  "meter_id": "M-000107",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-04"
+ },
+ {
+  "meter_id": "M-000108",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-03-19"
+ },
+ {
+  "meter_id": "M-000109",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-01-04"
+ },
+ {
+  "meter_id": "M-000110",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-26"
+ },
+ {
+  "meter_id": "M-000111",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-19"
+ },
+ {
+  "meter_id": "M-000112",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-14"
+ },
+ {
+  "meter_id": "M-000113",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-14"
+ },
+ {
+  "meter_id": "M-000114",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-11"
+ },
+ {
+  "meter_id": "M-000115",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-10"
+ },
+ {
+  "meter_id": "M-000116",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-13"
+ },
+ {
+  "meter_id": "M-000117",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-04-14"
+ },
+ {
+  "meter_id": "M-000118",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-24"
+ },
+ {
+  "meter_id": "M-000119",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-07-18"
+ },
+ {
+  "meter_id": "M-000120",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-07"
+ },
+ {
+  "meter_id": "M-000121",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-08-15"
+ },
+ {
+  "meter_id": "M-000122",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-09-16"
+ },
+ {
+  "meter_id": "M-000123",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-03"
+ },
+ {
+  "meter_id": "M-000124",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-27"
+ },
+ {
+  "meter_id": "M-000125",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-11-10"
+ },
+ {
+  "meter_id": "M-000126",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-01"
+ },
+ {
+  "meter_id": "M-000127",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-28"
+ },
+ {
+  "meter_id": "M-000128",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-07-21"
+ },
+ {
+  "meter_id": "M-000129",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-08-13"
+ },
+ {
+  "meter_id": "M-000130",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-25"
+ },
+ {
+  "meter_id": "M-000131",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-17"
+ },
+ {
+  "meter_id": "M-000132",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-02-15"
+ },
+ {
+  "meter_id": "M-000133",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-11-17"
+ },
+ {
+  "meter_id": "M-000134",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2023-08-20"
+ },
+ {
+  "meter_id": "M-000135",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-15"
+ },
+ {
+  "meter_id": "M-000136",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-08-09"
+ },
+ {
+  "meter_id": "M-000137",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-09-16"
+ },
+ {
+  "meter_id": "M-000138",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-03"
+ },
+ {
+  "meter_id": "M-000139",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-11"
+ },
+ {
+  "meter_id": "M-000140",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-05"
+ },
+ {
+  "meter_id": "M-000141",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-07"
+ },
+ {
+  "meter_id": "M-000142",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-18"
+ },
+ {
+  "meter_id": "M-000143",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-27"
+ },
+ {
+  "meter_id": "M-000144",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-13"
+ },
+ {
+  "meter_id": "M-000145",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-05-25"
+ },
+ {
+  "meter_id": "M-000146",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-24"
+ },
+ {
+  "meter_id": "M-000147",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-08"
+ },
+ {
+  "meter_id": "M-000148",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-13"
+ },
+ {
+  "meter_id": "M-000149",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-06"
+ },
+ {
+  "meter_id": "M-000150",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-18"
+ },
+ {
+  "meter_id": "M-000151",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-19"
+ },
+ {
+  "meter_id": "M-000152",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-14"
+ },
+ {
+  "meter_id": "M-000153",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-02"
+ },
+ {
+  "meter_id": "M-000154",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-15"
+ },
+ {
+  "meter_id": "M-000155",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-25"
+ },
+ {
+  "meter_id": "M-000156",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-05-27"
+ },
+ {
+  "meter_id": "M-000157",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-18"
+ },
+ {
+  "meter_id": "M-000158",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-21"
+ },
+ {
+  "meter_id": "M-000159",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-01-08"
+ },
+ {
+  "meter_id": "M-000160",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-05"
+ },
+ {
+  "meter_id": "M-000161",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-11-04"
+ },
+ {
+  "meter_id": "M-000162",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-23"
+ },
+ {
+  "meter_id": "M-000163",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-20"
+ },
+ {
+  "meter_id": "M-000164",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-10"
+ },
+ {
+  "meter_id": "M-000165",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-19"
+ },
+ {
+  "meter_id": "M-000166",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-23"
+ },
+ {
+  "meter_id": "M-000167",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-02-23"
+ },
+ {
+  "meter_id": "M-000168",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-26"
+ },
+ {
+  "meter_id": "M-000169",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-12"
+ },
+ {
+  "meter_id": "M-000170",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-28"
+ },
+ {
+  "meter_id": "M-000171",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-02-14"
+ },
+ {
+  "meter_id": "M-000172",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-12-05"
+ },
+ {
+  "meter_id": "M-000173",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-26"
+ },
+ {
+  "meter_id": "M-000174",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-08-14"
+ },
+ {
+  "meter_id": "M-000175",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-28"
+ },
+ {
+  "meter_id": "M-000176",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-15"
+ },
+ {
+  "meter_id": "M-000177",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-20"
+ },
+ {
+  "meter_id": "M-000178",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-16"
+ },
+ {
+  "meter_id": "M-000179",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-08-07"
+ },
+ {
+  "meter_id": "M-000180",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-09"
+ },
+ {
+  "meter_id": "M-000181",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-09-01"
+ },
+ {
+  "meter_id": "M-000182",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-02-08"
+ },
+ {
+  "meter_id": "M-000183",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-25"
+ },
+ {
+  "meter_id": "M-000184",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-11-23"
+ },
+ {
+  "meter_id": "M-000185",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-10"
+ },
+ {
+  "meter_id": "M-000186",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-22"
+ },
+ {
+  "meter_id": "M-000187",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-17"
+ },
+ {
+  "meter_id": "M-000188",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-06-23"
+ },
+ {
+  "meter_id": "M-000189",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-08"
+ },
+ {
+  "meter_id": "M-000190",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-04"
+ },
+ {
+  "meter_id": "M-000191",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-04-07"
+ },
+ {
+  "meter_id": "M-000192",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-19"
+ },
+ {
+  "meter_id": "M-000193",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2022-02-27"
+ },
+ {
+  "meter_id": "M-000194",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-06"
+ },
+ {
+  "meter_id": "M-000195",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-05-02"
+ },
+ {
+  "meter_id": "M-000196",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2022-12-05"
+ },
+ {
+  "meter_id": "M-000197",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-02-28"
+ },
+ {
+  "meter_id": "M-000198",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-16"
+ },
+ {
+  "meter_id": "M-000199",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-09"
+ },
+ {
+  "meter_id": "M-000200",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-02-27"
+ },
+ {
+  "meter_id": "M-000201",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-02-19"
+ },
+ {
+  "meter_id": "M-000202",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-05"
+ },
+ {
+  "meter_id": "M-000203",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-02-08"
+ },
+ {
+  "meter_id": "M-000204",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-20"
+ },
+ {
+  "meter_id": "M-000205",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-09-13"
+ },
+ {
+  "meter_id": "M-000206",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-05-28"
+ },
+ {
+  "meter_id": "M-000207",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-19"
+ },
+ {
+  "meter_id": "M-000208",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-21"
+ },
+ {
+  "meter_id": "M-000209",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-08"
+ },
+ {
+  "meter_id": "M-000210",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-01"
+ },
+ {
+  "meter_id": "M-000211",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-05-02"
+ },
+ {
+  "meter_id": "M-000212",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-28"
+ },
+ {
+  "meter_id": "M-000213",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-26"
+ },
+ {
+  "meter_id": "M-000214",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-04"
+ },
+ {
+  "meter_id": "M-000215",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-05-27"
+ },
+ {
+  "meter_id": "M-000216",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-26"
+ },
+ {
+  "meter_id": "M-000217",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-04"
+ },
+ {
+  "meter_id": "M-000218",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-13"
+ },
+ {
+  "meter_id": "M-000219",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-08-03"
+ },
+ {
+  "meter_id": "M-000220",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-11"
+ },
+ {
+  "meter_id": "M-000221",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-08"
+ },
+ {
+  "meter_id": "M-000222",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-11-27"
+ },
+ {
+  "meter_id": "M-000223",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-16"
+ },
+ {
+  "meter_id": "M-000224",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-05-06"
+ },
+ {
+  "meter_id": "M-000225",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2024-11-27"
+ },
+ {
+  "meter_id": "M-000226",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-12"
+ },
+ {
+  "meter_id": "M-000227",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-04"
+ },
+ {
+  "meter_id": "M-000228",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-07-23"
+ },
+ {
+  "meter_id": "M-000229",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-02"
+ },
+ {
+  "meter_id": "M-000230",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-05-11"
+ },
+ {
+  "meter_id": "M-000231",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-27"
+ },
+ {
+  "meter_id": "M-000232",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2025-07-02"
+ },
+ {
+  "meter_id": "M-000233",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-25"
+ },
+ {
+  "meter_id": "M-000234",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-07"
+ },
+ {
+  "meter_id": "M-000235",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-05-15"
+ },
+ {
+  "meter_id": "M-000236",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-02-01"
+ },
+ {
+  "meter_id": "M-000237",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2021-12-06"
+ },
+ {
+  "meter_id": "M-000238",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-09-14"
+ },
+ {
+  "meter_id": "M-000239",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-04"
+ },
+ {
+  "meter_id": "M-000240",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-23"
+ },
+ {
+  "meter_id": "M-000241",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-07-27"
+ },
+ {
+  "meter_id": "M-000242",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-15"
+ },
+ {
+  "meter_id": "M-000243",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-04-20"
+ },
+ {
+  "meter_id": "M-000244",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-09"
+ },
+ {
+  "meter_id": "M-000245",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-26"
+ },
+ {
+  "meter_id": "M-000246",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-24"
+ },
+ {
+  "meter_id": "M-000247",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-15"
+ },
+ {
+  "meter_id": "M-000248",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-06-18"
+ },
+ {
+  "meter_id": "M-000249",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-08-11"
+ },
+ {
+  "meter_id": "M-000250",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-10-13"
+ },
+ {
+  "meter_id": "M-000251",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-11"
+ },
+ {
+  "meter_id": "M-000252",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-22"
+ },
+ {
+  "meter_id": "M-000253",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-02"
+ },
+ {
+  "meter_id": "M-000254",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-28"
+ },
+ {
+  "meter_id": "M-000255",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-15"
+ },
+ {
+  "meter_id": "M-000256",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-28"
+ },
+ {
+  "meter_id": "M-000257",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-16"
+ },
+ {
+  "meter_id": "M-000258",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-20"
+ },
+ {
+  "meter_id": "M-000259",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-28"
+ },
+ {
+  "meter_id": "M-000260",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-21"
+ },
+ {
+  "meter_id": "M-000261",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-02"
+ },
+ {
+  "meter_id": "M-000262",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-22"
+ },
+ {
+  "meter_id": "M-000263",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-12-03"
+ },
+ {
+  "meter_id": "M-000264",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-23"
+ },
+ {
+  "meter_id": "M-000265",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-03-23"
+ },
+ {
+  "meter_id": "M-000266",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-01-11"
+ },
+ {
+  "meter_id": "M-000267",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-12"
+ },
+ {
+  "meter_id": "M-000268",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-09-14"
+ },
+ {
+  "meter_id": "M-000269",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-03-06"
+ },
+ {
+  "meter_id": "M-000270",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-22"
+ },
+ {
+  "meter_id": "M-000271",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-04-15"
+ },
+ {
+  "meter_id": "M-000272",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-05-22"
+ },
+ {
+  "meter_id": "M-000273",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-05-22"
+ },
+ {
+  "meter_id": "M-000274",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-12"
+ },
+ {
+  "meter_id": "M-000275",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2022-11-14"
+ },
+ {
+  "meter_id": "M-000276",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-05-07"
+ },
+ {
+  "meter_id": "M-000277",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2025-02-08"
+ },
+ {
+  "meter_id": "M-000278",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-10"
+ },
+ {
+  "meter_id": "M-000279",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2022-01-27"
+ },
+ {
+  "meter_id": "M-000280",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-01-19"
+ },
+ {
+  "meter_id": "M-000281",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-10-24"
+ },
+ {
+  "meter_id": "M-000282",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-20"
+ },
+ {
+  "meter_id": "M-000283",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-07"
+ },
+ {
+  "meter_id": "M-000284",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-04"
+ },
+ {
+  "meter_id": "M-000285",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-05-26"
+ },
+ {
+  "meter_id": "M-000286",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-05"
+ },
+ {
+  "meter_id": "M-000287",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-24"
+ },
+ {
+  "meter_id": "M-000288",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-26"
+ },
+ {
+  "meter_id": "M-000289",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-17"
+ },
+ {
+  "meter_id": "M-000290",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-05-27"
+ },
+ {
+  "meter_id": "M-000291",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-12-28"
+ },
+ {
+  "meter_id": "M-000292",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-03"
+ },
+ {
+  "meter_id": "M-000293",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-24"
+ },
+ {
+  "meter_id": "M-000294",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-12"
+ },
+ {
+  "meter_id": "M-000295",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-09"
+ },
+ {
+  "meter_id": "M-000296",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-22"
+ },
+ {
+  "meter_id": "M-000297",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-13"
+ },
+ {
+  "meter_id": "M-000298",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-22"
+ },
+ {
+  "meter_id": "M-000299",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-18"
+ },
+ {
+  "meter_id": "M-000300",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-03"
+ },
+ {
+  "meter_id": "M-000301",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-12-10"
+ },
+ {
+  "meter_id": "M-000302",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-02"
+ },
+ {
+  "meter_id": "M-000303",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-08-04"
+ },
+ {
+  "meter_id": "M-000304",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-15"
+ },
+ {
+  "meter_id": "M-000305",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-24"
+ },
+ {
+  "meter_id": "M-000306",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-04"
+ },
+ {
+  "meter_id": "M-000307",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-02"
+ },
+ {
+  "meter_id": "M-000308",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-15"
+ },
+ {
+  "meter_id": "M-000309",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-02-22"
+ },
+ {
+  "meter_id": "M-000310",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-13"
+ },
+ {
+  "meter_id": "M-000311",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-03"
+ },
+ {
+  "meter_id": "M-000312",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-01-26"
+ },
+ {
+  "meter_id": "M-000313",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-07"
+ },
+ {
+  "meter_id": "M-000314",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-10-07"
+ },
+ {
+  "meter_id": "M-000315",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-25"
+ },
+ {
+  "meter_id": "M-000316",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-28"
+ },
+ {
+  "meter_id": "M-000317",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2020-09-09"
+ },
+ {
+  "meter_id": "M-000318",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-28"
+ },
+ {
+  "meter_id": "M-000319",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-26"
+ },
+ {
+  "meter_id": "M-000320",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-06"
+ },
+ {
+  "meter_id": "M-000321",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-14"
+ },
+ {
+  "meter_id": "M-000322",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-15"
+ },
+ {
+  "meter_id": "M-000323",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-17"
+ },
+ {
+  "meter_id": "M-000324",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-26"
+ },
+ {
+  "meter_id": "M-000325",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-08-21"
+ },
+ {
+  "meter_id": "M-000326",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-08-28"
+ },
+ {
+  "meter_id": "M-000327",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-23"
+ },
+ {
+  "meter_id": "M-000328",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-02-11"
+ },
+ {
+  "meter_id": "M-000329",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-09"
+ },
+ {
+  "meter_id": "M-000330",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-20"
+ },
+ {
+  "meter_id": "M-000331",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-20"
+ },
+ {
+  "meter_id": "M-000332",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-21"
+ },
+ {
+  "meter_id": "M-000333",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-07-15"
+ },
+ {
+  "meter_id": "M-000334",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-06-27"
+ },
+ {
+  "meter_id": "M-000335",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-04"
+ },
+ {
+  "meter_id": "M-000336",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-09"
+ },
+ {
+  "meter_id": "M-000337",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-16"
+ },
+ {
+  "meter_id": "M-000338",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-14"
+ },
+ {
+  "meter_id": "M-000339",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-18"
+ },
+ {
+  "meter_id": "M-000340",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-04"
+ },
+ {
+  "meter_id": "M-000341",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-02"
+ },
+ {
+  "meter_id": "M-000342",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-06-04"
+ },
+ {
+  "meter_id": "M-000343",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-22"
+ },
+ {
+  "meter_id": "M-000344",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-28"
+ },
+ {
+  "meter_id": "M-000345",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-19"
+ },
+ {
+  "meter_id": "M-000346",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-25"
+ },
+ {
+  "meter_id": "M-000347",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-22"
+ },
+ {
+  "meter_id": "M-000348",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-01-06"
+ },
+ {
+  "meter_id": "M-000349",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-12"
+ },
+ {
+  "meter_id": "M-000350",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-22"
+ },
+ {
+  "meter_id": "M-000351",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-21"
+ },
+ {
+  "meter_id": "M-000352",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2019-12-17"
+ },
+ {
+  "meter_id": "M-000353",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-08-11"
+ },
+ {
+  "meter_id": "M-000354",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-11"
+ },
+ {
+  "meter_id": "M-000355",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-01-05"
+ },
+ {
+  "meter_id": "M-000356",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-11-03"
+ },
+ {
+  "meter_id": "M-000357",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-08-20"
+ },
+ {
+  "meter_id": "M-000358",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-25"
+ },
+ {
+  "meter_id": "M-000359",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-04"
+ },
+ {
+  "meter_id": "M-000360",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-22"
+ },
+ {
+  "meter_id": "M-000361",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-20"
+ },
+ {
+  "meter_id": "M-000362",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-07"
+ },
+ {
+  "meter_id": "M-000363",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-11"
+ },
+ {
+  "meter_id": "M-000364",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-12-14"
+ },
+ {
+  "meter_id": "M-000365",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-23"
+ },
+ {
+  "meter_id": "M-000366",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-13"
+ },
+ {
+  "meter_id": "M-000367",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-07-01"
+ },
+ {
+  "meter_id": "M-000368",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-19"
+ },
+ {
+  "meter_id": "M-000369",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-21"
+ },
+ {
+  "meter_id": "M-000370",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-01"
+ },
+ {
+  "meter_id": "M-000371",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-10-15"
+ },
+ {
+  "meter_id": "M-000372",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-14"
+ },
+ {
+  "meter_id": "M-000373",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-19"
+ },
+ {
+  "meter_id": "M-000374",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-28"
+ },
+ {
+  "meter_id": "M-000375",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-11"
+ },
+ {
+  "meter_id": "M-000376",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-21"
+ },
+ {
+  "meter_id": "M-000377",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-12"
+ },
+ {
+  "meter_id": "M-000378",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-04-04"
+ },
+ {
+  "meter_id": "M-000379",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-20"
+ },
+ {
+  "meter_id": "M-000380",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-25"
+ },
+ {
+  "meter_id": "M-000381",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-25"
+ },
+ {
+  "meter_id": "M-000382",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-11"
+ },
+ {
+  "meter_id": "M-000383",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-15"
+ },
+ {
+  "meter_id": "M-000384",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-02"
+ },
+ {
+  "meter_id": "M-000385",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-15"
+ },
+ {
+  "meter_id": "M-000386",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-27"
+ },
+ {
+  "meter_id": "M-000387",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-20"
+ },
+ {
+  "meter_id": "M-000388",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-18"
+ },
+ {
+  "meter_id": "M-000389",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-08-26"
+ },
+ {
+  "meter_id": "M-000390",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-20"
+ },
+ {
+  "meter_id": "M-000391",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-15"
+ },
+ {
+  "meter_id": "M-000392",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-03"
+ },
+ {
+  "meter_id": "M-000393",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-08"
+ },
+ {
+  "meter_id": "M-000394",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-17"
+ },
+ {
+  "meter_id": "M-000395",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-06-10"
+ },
+ {
+  "meter_id": "M-000396",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-20"
+ },
+ {
+  "meter_id": "M-000397",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-11"
+ },
+ {
+  "meter_id": "M-000398",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-09"
+ },
+ {
+  "meter_id": "M-000399",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-03"
+ },
+ {
+  "meter_id": "M-000400",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-10"
+ },
+ {
+  "meter_id": "M-000401",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-03-20"
+ },
+ {
+  "meter_id": "M-000402",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-18"
+ },
+ {
+  "meter_id": "M-000403",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-22"
+ },
+ {
+  "meter_id": "M-000404",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-22"
+ },
+ {
+  "meter_id": "M-000405",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-12"
+ },
+ {
+  "meter_id": "M-000406",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-25"
+ },
+ {
+  "meter_id": "M-000407",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-05"
+ },
+ {
+  "meter_id": "M-000408",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-25"
+ },
+ {
+  "meter_id": "M-000409",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-11-11"
+ },
+ {
+  "meter_id": "M-000410",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-10-13"
+ },
+ {
+  "meter_id": "M-000411",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-25"
+ },
+ {
+  "meter_id": "M-000412",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-15"
+ },
+ {
+  "meter_id": "M-000413",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-24"
+ },
+ {
+  "meter_id": "M-000414",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-10"
+ },
+ {
+  "meter_id": "M-000415",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-18"
+ },
+ {
+  "meter_id": "M-000416",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-12"
+ },
+ {
+  "meter_id": "M-000417",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-25"
+ },
+ {
+  "meter_id": "M-000418",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-17"
+ },
+ {
+  "meter_id": "M-000419",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-04-26"
+ },
+ {
+  "meter_id": "M-000420",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-01-21"
+ },
+ {
+  "meter_id": "M-000421",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-04"
+ },
+ {
+  "meter_id": "M-000422",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-03"
+ },
+ {
+  "meter_id": "M-000423",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-17"
+ },
+ {
+  "meter_id": "M-000424",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-08"
+ },
+ {
+  "meter_id": "M-000425",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-14"
+ },
+ {
+  "meter_id": "M-000426",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-13"
+ },
+ {
+  "meter_id": "M-000427",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2023-04-01"
+ },
+ {
+  "meter_id": "M-000428",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-21"
+ },
+ {
+  "meter_id": "M-000429",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-03-02"
+ },
+ {
+  "meter_id": "M-000430",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-12-27"
+ },
+ {
+  "meter_id": "M-000431",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-20"
+ },
+ {
+  "meter_id": "M-000432",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-01-09"
+ },
+ {
+  "meter_id": "M-000433",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-24"
+ },
+ {
+  "meter_id": "M-000434",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-25"
+ },
+ {
+  "meter_id": "M-000435",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-02-02"
+ },
+ {
+  "meter_id": "M-000436",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-02-04"
+ },
+ {
+  "meter_id": "M-000437",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-18"
+ },
+ {
+  "meter_id": "M-000438",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-05"
+ },
+ {
+  "meter_id": "M-000439",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-12"
+ },
+ {
+  "meter_id": "M-000440",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-22"
+ },
+ {
+  "meter_id": "M-000441",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-17"
+ },
+ {
+  "meter_id": "M-000442",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-07-28"
+ },
+ {
+  "meter_id": "M-000443",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-09"
+ },
+ {
+  "meter_id": "M-000444",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-12"
+ },
+ {
+  "meter_id": "M-000445",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-24"
+ },
+ {
+  "meter_id": "M-000446",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-12"
+ },
+ {
+  "meter_id": "M-000447",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-15"
+ },
+ {
+  "meter_id": "M-000448",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2025-11-06"
+ },
+ {
+  "meter_id": "M-000449",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-25"
+ },
+ {
+  "meter_id": "M-000450",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-05-07"
+ },
+ {
+  "meter_id": "M-000451",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-11"
+ },
+ {
+  "meter_id": "M-000452",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-09-16"
+ },
+ {
+  "meter_id": "M-000453",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-12"
+ },
+ {
+  "meter_id": "M-000454",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-11-11"
+ },
+ {
+  "meter_id": "M-000455",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-13"
+ },
+ {
+  "meter_id": "M-000456",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-06"
+ },
+ {
+  "meter_id": "M-000457",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-26"
+ },
+ {
+  "meter_id": "M-000458",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-14"
+ },
+ {
+  "meter_id": "M-000459",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-10"
+ },
+ {
+  "meter_id": "M-000460",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-22"
+ },
+ {
+  "meter_id": "M-000461",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-23"
+ },
+ {
+  "meter_id": "M-000462",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-15"
+ },
+ {
+  "meter_id": "M-000463",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-14"
+ },
+ {
+  "meter_id": "M-000464",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-22"
+ },
+ {
+  "meter_id": "M-000465",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-26"
+ },
+ {
+  "meter_id": "M-000466",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-05"
+ },
+ {
+  "meter_id": "M-000467",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-05"
+ },
+ {
+  "meter_id": "M-000468",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-06-13"
+ },
+ {
+  "meter_id": "M-000469",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-10-05"
+ },
+ {
+  "meter_id": "M-000470",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-06-15"
+ },
+ {
+  "meter_id": "M-000471",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-12"
+ },
+ {
+  "meter_id": "M-000472",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-04"
+ },
+ {
+  "meter_id": "M-000473",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-17"
+ },
+ {
+  "meter_id": "M-000474",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-25"
+ },
+ {
+  "meter_id": "M-000475",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-20"
+ },
+ {
+  "meter_id": "M-000476",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-04"
+ },
+ {
+  "meter_id": "M-000477",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-06"
+ },
+ {
+  "meter_id": "M-000478",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-02-26"
+ },
+ {
+  "meter_id": "M-000479",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-12"
+ },
+ {
+  "meter_id": "M-000480",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-28"
+ },
+ {
+  "meter_id": "M-000481",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-17"
+ },
+ {
+  "meter_id": "M-000482",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-08"
+ },
+ {
+  "meter_id": "M-000483",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-18"
+ },
+ {
+  "meter_id": "M-000484",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-05"
+ },
+ {
+  "meter_id": "M-000485",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-10"
+ },
+ {
+  "meter_id": "M-000486",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-14"
+ },
+ {
+  "meter_id": "M-000487",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-11"
+ },
+ {
+  "meter_id": "M-000488",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-22"
+ },
+ {
+  "meter_id": "M-000489",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-21"
+ },
+ {
+  "meter_id": "M-000490",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-17"
+ },
+ {
+  "meter_id": "M-000491",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-02-17"
+ },
+ {
+  "meter_id": "M-000492",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-03-11"
+ },
+ {
+  "meter_id": "M-000493",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-06-17"
+ },
+ {
+  "meter_id": "M-000494",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-05-07"
+ },
+ {
+  "meter_id": "M-000495",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-03-21"
+ },
+ {
+  "meter_id": "M-000496",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-21"
+ },
+ {
+  "meter_id": "M-000497",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-03-22"
+ },
+ {
+  "meter_id": "M-000498",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-02"
+ },
+ {
+  "meter_id": "M-000499",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-02"
+ },
+ {
+  "meter_id": "M-000500",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-11-07"
+ },
+ {
+  "meter_id": "M-000501",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-21"
+ },
+ {
+  "meter_id": "M-000502",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-11-10"
+ },
+ {
+  "meter_id": "M-000503",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-15"
+ },
+ {
+  "meter_id": "M-000504",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-15"
+ },
+ {
+  "meter_id": "M-000505",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-11"
+ },
+ {
+  "meter_id": "M-000506",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-11"
+ },
+ {
+  "meter_id": "M-000507",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-05"
+ },
+ {
+  "meter_id": "M-000508",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-08"
+ },
+ {
+  "meter_id": "M-000509",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-08"
+ },
+ {
+  "meter_id": "M-000510",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-13"
+ },
+ {
+  "meter_id": "M-000511",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-04-28"
+ },
+ {
+  "meter_id": "M-000512",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-10-24"
+ },
+ {
+  "meter_id": "M-000513",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-17"
+ },
+ {
+  "meter_id": "M-000514",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-01"
+ },
+ {
+  "meter_id": "M-000515",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-15"
+ },
+ {
+  "meter_id": "M-000516",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-10-12"
+ },
+ {
+  "meter_id": "M-000517",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-20"
+ },
+ {
+  "meter_id": "M-000518",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-05-18"
+ },
+ {
+  "meter_id": "M-000519",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-05"
+ },
+ {
+  "meter_id": "M-000520",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-07-12"
+ },
+ {
+  "meter_id": "M-000521",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-18"
+ },
+ {
+  "meter_id": "M-000522",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-02-13"
+ },
+ {
+  "meter_id": "M-000523",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-22"
+ },
+ {
+  "meter_id": "M-000524",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-13"
+ },
+ {
+  "meter_id": "M-000525",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-12"
+ },
+ {
+  "meter_id": "M-000526",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-10-17"
+ },
+ {
+  "meter_id": "M-000527",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-01-02"
+ },
+ {
+  "meter_id": "M-000528",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-08-17"
+ },
+ {
+  "meter_id": "M-000529",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-20"
+ },
+ {
+  "meter_id": "M-000530",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-24"
+ },
+ {
+  "meter_id": "M-000531",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-27"
+ },
+ {
+  "meter_id": "M-000532",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-12-19"
+ },
+ {
+  "meter_id": "M-000533",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-11"
+ },
+ {
+  "meter_id": "M-000534",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-10"
+ },
+ {
+  "meter_id": "M-000535",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-16"
+ },
+ {
+  "meter_id": "M-000536",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-02"
+ },
+ {
+  "meter_id": "M-000537",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-21"
+ },
+ {
+  "meter_id": "M-000538",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-27"
+ },
+ {
+  "meter_id": "M-000539",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-23"
+ },
+ {
+  "meter_id": "M-000540",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-08-11"
+ },
+ {
+  "meter_id": "M-000541",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-07"
+ },
+ {
+  "meter_id": "M-000542",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-12-24"
+ },
+ {
+  "meter_id": "M-000543",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-07"
+ },
+ {
+  "meter_id": "M-000544",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-13"
+ },
+ {
+  "meter_id": "M-000545",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-18"
+ },
+ {
+  "meter_id": "M-000546",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-25"
+ },
+ {
+  "meter_id": "M-000547",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-10-16"
+ },
+ {
+  "meter_id": "M-000548",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-18"
+ },
+ {
+  "meter_id": "M-000549",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-23"
+ },
+ {
+  "meter_id": "M-000550",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-16"
+ },
+ {
+  "meter_id": "M-000551",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-04"
+ },
+ {
+  "meter_id": "M-000552",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-27"
+ },
+ {
+  "meter_id": "M-000553",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-05-02"
+ },
+ {
+  "meter_id": "M-000554",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-15"
+ },
+ {
+  "meter_id": "M-000555",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-07"
+ },
+ {
+  "meter_id": "M-000556",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-09-23"
+ },
+ {
+  "meter_id": "M-000557",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-24"
+ },
+ {
+  "meter_id": "M-000558",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-22"
+ },
+ {
+  "meter_id": "M-000559",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-11-08"
+ },
+ {
+  "meter_id": "M-000560",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-23"
+ },
+ {
+  "meter_id": "M-000561",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-18"
+ },
+ {
+  "meter_id": "M-000562",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2020-07-21"
+ },
+ {
+  "meter_id": "M-000563",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-08-21"
+ },
+ {
+  "meter_id": "M-000564",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-10"
+ },
+ {
+  "meter_id": "M-000565",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-19"
+ },
+ {
+  "meter_id": "M-000566",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-14"
+ },
+ {
+  "meter_id": "M-000567",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-01-27"
+ },
+ {
+  "meter_id": "M-000568",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-24"
+ },
+ {
+  "meter_id": "M-000569",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-01-01"
+ },
+ {
+  "meter_id": "M-000570",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-10"
+ },
+ {
+  "meter_id": "M-000571",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-28"
+ },
+ {
+  "meter_id": "M-000572",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-26"
+ },
+ {
+  "meter_id": "M-000573",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-15"
+ },
+ {
+  "meter_id": "M-000574",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-24"
+ },
+ {
+  "meter_id": "M-000575",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-22"
+ },
+ {
+  "meter_id": "M-000576",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-28"
+ },
+ {
+  "meter_id": "M-000577",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-17"
+ },
+ {
+  "meter_id": "M-000578",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-04"
+ },
+ {
+  "meter_id": "M-000579",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-11"
+ },
+ {
+  "meter_id": "M-000580",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-05-13"
+ },
+ {
+  "meter_id": "M-000581",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-10"
+ },
+ {
+  "meter_id": "M-000582",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-21"
+ },
+ {
+  "meter_id": "M-000583",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-22"
+ },
+ {
+  "meter_id": "M-000584",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-03-13"
+ },
+ {
+  "meter_id": "M-000585",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-04"
+ },
+ {
+  "meter_id": "M-000586",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-20"
+ },
+ {
+  "meter_id": "M-000587",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-05"
+ },
+ {
+  "meter_id": "M-000588",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-23"
+ },
+ {
+  "meter_id": "M-000589",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-26"
+ },
+ {
+  "meter_id": "M-000590",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-04-22"
+ },
+ {
+  "meter_id": "M-000591",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-15"
+ },
+ {
+  "meter_id": "M-000592",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-19"
+ },
+ {
+  "meter_id": "M-000593",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-10-18"
+ },
+ {
+  "meter_id": "M-000594",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-15"
+ },
+ {
+  "meter_id": "M-000595",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-19"
+ },
+ {
+  "meter_id": "M-000596",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-15"
+ },
+ {
+  "meter_id": "M-000597",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-08-19"
+ },
+ {
+  "meter_id": "M-000598",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-11-26"
+ },
+ {
+  "meter_id": "M-000599",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-07-09"
+ },
+ {
+  "meter_id": "M-000600",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-10-03"
+ },
+ {
+  "meter_id": "M-000601",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-03"
+ },
+ {
+  "meter_id": "M-000602",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-16"
+ },
+ {
+  "meter_id": "M-000603",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-25"
+ },
+ {
+  "meter_id": "M-000604",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-13"
+ },
+ {
+  "meter_id": "M-000605",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-03"
+ },
+ {
+  "meter_id": "M-000606",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-28"
+ },
+ {
+  "meter_id": "M-000607",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-13"
+ },
+ {
+  "meter_id": "M-000608",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-25"
+ },
+ {
+  "meter_id": "M-000609",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-22"
+ },
+ {
+  "meter_id": "M-000610",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-13"
+ },
+ {
+  "meter_id": "M-000611",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-12"
+ },
+ {
+  "meter_id": "M-000612",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-25"
+ },
+ {
+  "meter_id": "M-000613",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-25"
+ },
+ {
+  "meter_id": "M-000614",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-04-07"
+ },
+ {
+  "meter_id": "M-000615",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-08-20"
+ },
+ {
+  "meter_id": "M-000616",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-24"
+ },
+ {
+  "meter_id": "M-000617",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-18"
+ },
+ {
+  "meter_id": "M-000618",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-17"
+ },
+ {
+  "meter_id": "M-000619",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2021-12-19"
+ },
+ {
+  "meter_id": "M-000620",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-10"
+ },
+ {
+  "meter_id": "M-000621",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-07-10"
+ },
+ {
+  "meter_id": "M-000622",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-22"
+ },
+ {
+  "meter_id": "M-000623",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-12"
+ },
+ {
+  "meter_id": "M-000624",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-09-11"
+ },
+ {
+  "meter_id": "M-000625",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-10"
+ },
+ {
+  "meter_id": "M-000626",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-28"
+ },
+ {
+  "meter_id": "M-000627",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-02"
+ },
+ {
+  "meter_id": "M-000628",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-17"
+ },
+ {
+  "meter_id": "M-000629",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-07"
+ },
+ {
+  "meter_id": "M-000630",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-28"
+ },
+ {
+  "meter_id": "M-000631",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-09"
+ },
+ {
+  "meter_id": "M-000632",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-07"
+ },
+ {
+  "meter_id": "M-000633",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-07"
+ },
+ {
+  "meter_id": "M-000634",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-05-01"
+ },
+ {
+  "meter_id": "M-000635",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-04"
+ },
+ {
+  "meter_id": "M-000636",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-23"
+ },
+ {
+  "meter_id": "M-000637",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-08"
+ },
+ {
+  "meter_id": "M-000638",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-07-15"
+ },
+ {
+  "meter_id": "M-000639",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-05-09"
+ },
+ {
+  "meter_id": "M-000640",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-04"
+ },
+ {
+  "meter_id": "M-000641",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-07"
+ },
+ {
+  "meter_id": "M-000642",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-19"
+ },
+ {
+  "meter_id": "M-000643",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-01-09"
+ },
+ {
+  "meter_id": "M-000644",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-05"
+ },
+ {
+  "meter_id": "M-000645",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-19"
+ },
+ {
+  "meter_id": "M-000646",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-21"
+ },
+ {
+  "meter_id": "M-000647",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-05-25"
+ },
+ {
+  "meter_id": "M-000648",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-06"
+ },
+ {
+  "meter_id": "M-000649",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-05"
+ },
+ {
+  "meter_id": "M-000650",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-18"
+ },
+ {
+  "meter_id": "M-000651",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2018-09-02"
+ },
+ {
+  "meter_id": "M-000652",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-02"
+ },
+ {
+  "meter_id": "M-000653",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-27"
+ },
+ {
+  "meter_id": "M-000654",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-05"
+ },
+ {
+  "meter_id": "M-000655",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-02"
+ },
+ {
+  "meter_id": "M-000656",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-11-16"
+ },
+ {
+  "meter_id": "M-000657",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-01"
+ },
+ {
+  "meter_id": "M-000658",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-09-10"
+ },
+ {
+  "meter_id": "M-000659",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-04"
+ },
+ {
+  "meter_id": "M-000660",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-04-07"
+ },
+ {
+  "meter_id": "M-000661",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-09"
+ },
+ {
+  "meter_id": "M-000662",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-13"
+ },
+ {
+  "meter_id": "M-000663",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-08"
+ },
+ {
+  "meter_id": "M-000664",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-28"
+ },
+ {
+  "meter_id": "M-000665",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-13"
+ },
+ {
+  "meter_id": "M-000666",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-21"
+ },
+ {
+  "meter_id": "M-000667",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-16"
+ },
+ {
+  "meter_id": "M-000668",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-28"
+ },
+ {
+  "meter_id": "M-000669",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2018-04-07"
+ },
+ {
+  "meter_id": "M-000670",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-05-02"
+ },
+ {
+  "meter_id": "M-000671",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-09-19"
+ },
+ {
+  "meter_id": "M-000672",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-01"
+ },
+ {
+  "meter_id": "M-000673",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-12-27"
+ },
+ {
+  "meter_id": "M-000674",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-06"
+ },
+ {
+  "meter_id": "M-000675",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-18"
+ },
+ {
+  "meter_id": "M-000676",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-24"
+ },
+ {
+  "meter_id": "M-000677",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-04"
+ },
+ {
+  "meter_id": "M-000678",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-20"
+ },
+ {
+  "meter_id": "M-000679",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-01"
+ },
+ {
+  "meter_id": "M-000680",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-08"
+ },
+ {
+  "meter_id": "M-000681",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-06"
+ },
+ {
+  "meter_id": "M-000682",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-25"
+ },
+ {
+  "meter_id": "M-000683",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-03"
+ },
+ {
+  "meter_id": "M-000684",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-23"
+ },
+ {
+  "meter_id": "M-000685",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-13"
+ },
+ {
+  "meter_id": "M-000686",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-01"
+ },
+ {
+  "meter_id": "M-000687",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-06-25"
+ },
+ {
+  "meter_id": "M-000688",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-06"
+ },
+ {
+  "meter_id": "M-000689",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-01"
+ },
+ {
+  "meter_id": "M-000690",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-20"
+ },
+ {
+  "meter_id": "M-000691",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-10"
+ },
+ {
+  "meter_id": "M-000692",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-18"
+ },
+ {
+  "meter_id": "M-000693",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-10-17"
+ },
+ {
+  "meter_id": "M-000694",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-05"
+ },
+ {
+  "meter_id": "M-000695",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-08-05"
+ },
+ {
+  "meter_id": "M-000696",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-14"
+ },
+ {
+  "meter_id": "M-000697",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-09"
+ },
+ {
+  "meter_id": "M-000698",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-10-20"
+ },
+ {
+  "meter_id": "M-000699",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-10"
+ },
+ {
+  "meter_id": "M-000700",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-27"
+ },
+ {
+  "meter_id": "M-000701",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-08-11"
+ },
+ {
+  "meter_id": "M-000702",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-05-11"
+ },
+ {
+  "meter_id": "M-000703",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-11"
+ },
+ {
+  "meter_id": "M-000704",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-10"
+ },
+ {
+  "meter_id": "M-000705",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-26"
+ },
+ {
+  "meter_id": "M-000706",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-05-27"
+ },
+ {
+  "meter_id": "M-000707",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-19"
+ },
+ {
+  "meter_id": "M-000708",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-25"
+ },
+ {
+  "meter_id": "M-000709",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-12-07"
+ },
+ {
+  "meter_id": "M-000710",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-03"
+ },
+ {
+  "meter_id": "M-000711",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-16"
+ },
+ {
+  "meter_id": "M-000712",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-09"
+ },
+ {
+  "meter_id": "M-000713",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-03"
+ },
+ {
+  "meter_id": "M-000714",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-13"
+ },
+ {
+  "meter_id": "M-000715",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-02"
+ },
+ {
+  "meter_id": "M-000716",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-26"
+ },
+ {
+  "meter_id": "M-000717",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-25"
+ },
+ {
+  "meter_id": "M-000718",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-21"
+ },
+ {
+  "meter_id": "M-000719",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-26"
+ },
+ {
+  "meter_id": "M-000720",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-09"
+ },
+ {
+  "meter_id": "M-000721",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-12"
+ },
+ {
+  "meter_id": "M-000722",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-01"
+ },
+ {
+  "meter_id": "M-000723",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-07-03"
+ },
+ {
+  "meter_id": "M-000724",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-10"
+ },
+ {
+  "meter_id": "M-000725",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-09-16"
+ },
+ {
+  "meter_id": "M-000726",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-24"
+ },
+ {
+  "meter_id": "M-000727",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-10"
+ },
+ {
+  "meter_id": "M-000728",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-01-28"
+ },
+ {
+  "meter_id": "M-000729",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-26"
+ },
+ {
+  "meter_id": "M-000730",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-09-06"
+ },
+ {
+  "meter_id": "M-000731",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-14"
+ },
+ {
+  "meter_id": "M-000732",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-07-21"
+ },
+ {
+  "meter_id": "M-000733",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-01"
+ },
+ {
+  "meter_id": "M-000734",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-19"
+ },
+ {
+  "meter_id": "M-000735",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-07"
+ },
+ {
+  "meter_id": "M-000736",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-04"
+ },
+ {
+  "meter_id": "M-000737",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-06-11"
+ },
+ {
+  "meter_id": "M-000738",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-22"
+ },
+ {
+  "meter_id": "M-000739",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-10-13"
+ },
+ {
+  "meter_id": "M-000740",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-12"
+ },
+ {
+  "meter_id": "M-000741",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-23"
+ },
+ {
+  "meter_id": "M-000742",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-05"
+ },
+ {
+  "meter_id": "M-000743",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-04"
+ },
+ {
+  "meter_id": "M-000744",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-13"
+ },
+ {
+  "meter_id": "M-000745",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-13"
+ },
+ {
+  "meter_id": "M-000746",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-11-18"
+ },
+ {
+  "meter_id": "M-000747",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-06"
+ },
+ {
+  "meter_id": "M-000748",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-03-11"
+ },
+ {
+  "meter_id": "M-000749",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-01"
+ },
+ {
+  "meter_id": "M-000750",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-18"
+ },
+ {
+  "meter_id": "M-000751",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-07-22"
+ },
+ {
+  "meter_id": "M-000752",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-06"
+ },
+ {
+  "meter_id": "M-000753",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-10"
+ },
+ {
+  "meter_id": "M-000754",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-09-10"
+ },
+ {
+  "meter_id": "M-000755",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-10-24"
+ },
+ {
+  "meter_id": "M-000756",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-17"
+ },
+ {
+  "meter_id": "M-000757",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-25"
+ },
+ {
+  "meter_id": "M-000758",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-27"
+ },
+ {
+  "meter_id": "M-000759",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-07"
+ },
+ {
+  "meter_id": "M-000760",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2019-12-27"
+ },
+ {
+  "meter_id": "M-000761",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-05-28"
+ },
+ {
+  "meter_id": "M-000762",
+  "district": "darnytskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2025-05-12"
+ },
+ {
+  "meter_id": "M-000763",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-08-28"
+ },
+ {
+  "meter_id": "M-000764",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2021-04-26"
+ },
+ {
+  "meter_id": "M-000765",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-20"
+ },
+ {
+  "meter_id": "M-000766",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-05"
+ },
+ {
+  "meter_id": "M-000767",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-19"
+ },
+ {
+  "meter_id": "M-000768",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-18"
+ },
+ {
+  "meter_id": "M-000769",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-19"
+ },
+ {
+  "meter_id": "M-000770",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-25"
+ },
+ {
+  "meter_id": "M-000771",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-28"
+ },
+ {
+  "meter_id": "M-000772",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-04-05"
+ },
+ {
+  "meter_id": "M-000773",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-13"
+ },
+ {
+  "meter_id": "M-000774",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-11-14"
+ },
+ {
+  "meter_id": "M-000775",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-11-26"
+ },
+ {
+  "meter_id": "M-000776",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-07-17"
+ },
+ {
+  "meter_id": "M-000777",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-08-16"
+ },
+ {
+  "meter_id": "M-000778",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-03"
+ },
+ {
+  "meter_id": "M-000779",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-11-22"
+ },
+ {
+  "meter_id": "M-000780",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-13"
+ },
+ {
+  "meter_id": "M-000781",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-04-16"
+ },
+ {
+  "meter_id": "M-000782",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-18"
+ },
+ {
+  "meter_id": "M-000783",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-22"
+ },
+ {
+  "meter_id": "M-000784",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-02-21"
+ },
+ {
+  "meter_id": "M-000785",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-04"
+ },
+ {
+  "meter_id": "M-000786",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-08-15"
+ },
+ {
+  "meter_id": "M-000787",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-04-23"
+ },
+ {
+  "meter_id": "M-000788",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-03-28"
+ },
+ {
+  "meter_id": "M-000789",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-02-21"
+ },
+ {
+  "meter_id": "M-000790",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-22"
+ },
+ {
+  "meter_id": "M-000791",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2020-01-13"
+ },
+ {
+  "meter_id": "M-000792",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-07-21"
+ },
+ {
+  "meter_id": "M-000793",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-01-07"
+ },
+ {
+  "meter_id": "M-000794",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-08"
+ },
+ {
+  "meter_id": "M-000795",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-01"
+ },
+ {
+  "meter_id": "M-000796",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-23"
+ },
+ {
+  "meter_id": "M-000797",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-13"
+ },
+ {
+  "meter_id": "M-000798",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-11"
+ },
+ {
+  "meter_id": "M-000799",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-03-13"
+ },
+ {
+  "meter_id": "M-000800",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-22"
+ },
+ {
+  "meter_id": "M-000801",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-10-21"
+ },
+ {
+  "meter_id": "M-000802",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-07"
+ },
+ {
+  "meter_id": "M-000803",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-20"
+ },
+ {
+  "meter_id": "M-000804",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-02-04"
+ },
+ {
+  "meter_id": "M-000805",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-10-24"
+ },
+ {
+  "meter_id": "M-000806",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-26"
+ },
+ {
+  "meter_id": "M-000807",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-11-03"
+ },
+ {
+  "meter_id": "M-000808",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-01"
+ },
+ {
+  "meter_id": "M-000809",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-17"
+ },
+ {
+  "meter_id": "M-000810",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-13"
+ },
+ {
+  "meter_id": "M-000811",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-16"
+ },
+ {
+  "meter_id": "M-000812",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-21"
+ },
+ {
+  "meter_id": "M-000813",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-11"
+ },
+ {
+  "meter_id": "M-000814",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-18"
+ },
+ {
+  "meter_id": "M-000815",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-02-01"
+ },
+ {
+  "meter_id": "M-000816",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-07"
+ },
+ {
+  "meter_id": "M-000817",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-07-17"
+ },
+ {
+  "meter_id": "M-000818",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-23"
+ },
+ {
+  "meter_id": "M-000819",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-05-03"
+ },
+ {
+  "meter_id": "M-000820",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-18"
+ },
+ {
+  "meter_id": "M-000821",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-23"
+ },
+ {
+  "meter_id": "M-000822",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-08"
+ },
+ {
+  "meter_id": "M-000823",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-15"
+ },
+ {
+  "meter_id": "M-000824",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-22"
+ },
+ {
+  "meter_id": "M-000825",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-01"
+ },
+ {
+  "meter_id": "M-000826",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-16"
+ },
+ {
+  "meter_id": "M-000827",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-03-12"
+ },
+ {
+  "meter_id": "M-000828",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-04"
+ },
+ {
+  "meter_id": "M-000829",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-26"
+ },
+ {
+  "meter_id": "M-000830",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-23"
+ },
+ {
+  "meter_id": "M-000831",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2019-08-15"
+ },
+ {
+  "meter_id": "M-000832",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-08-28"
+ },
+ {
+  "meter_id": "M-000833",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-09"
+ },
+ {
+  "meter_id": "M-000834",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-24"
+ },
+ {
+  "meter_id": "M-000835",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-01-08"
+ },
+ {
+  "meter_id": "M-000836",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-05"
+ },
+ {
+  "meter_id": "M-000837",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-09-26"
+ },
+ {
+  "meter_id": "M-000838",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-04-11"
+ },
+ {
+  "meter_id": "M-000839",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-05-27"
+ },
+ {
+  "meter_id": "M-000840",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-17"
+ },
+ {
+  "meter_id": "M-000841",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-08"
+ },
+ {
+  "meter_id": "M-000842",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-07-03"
+ },
+ {
+  "meter_id": "M-000843",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-05-11"
+ },
+ {
+  "meter_id": "M-000844",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-12"
+ },
+ {
+  "meter_id": "M-000845",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-20"
+ },
+ {
+  "meter_id": "M-000846",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-16"
+ },
+ {
+  "meter_id": "M-000847",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2021-12-18"
+ },
+ {
+  "meter_id": "M-000848",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-01"
+ },
+ {
+  "meter_id": "M-000849",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-04-18"
+ },
+ {
+  "meter_id": "M-000850",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-06-01"
+ },
+ {
+  "meter_id": "M-000851",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-24"
+ },
+ {
+  "meter_id": "M-000852",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-09-08"
+ },
+ {
+  "meter_id": "M-000853",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-03-23"
+ },
+ {
+  "meter_id": "M-000854",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-28"
+ },
+ {
+  "meter_id": "M-000855",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-08-24"
+ },
+ {
+  "meter_id": "M-000856",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-09-05"
+ },
+ {
+  "meter_id": "M-000857",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-19"
+ },
+ {
+  "meter_id": "M-000858",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-05"
+ },
+ {
+  "meter_id": "M-000859",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-26"
+ },
+ {
+  "meter_id": "M-000860",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-06-15"
+ },
+ {
+  "meter_id": "M-000861",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-05"
+ },
+ {
+  "meter_id": "M-000862",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-03-04"
+ },
+ {
+  "meter_id": "M-000863",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-14"
+ },
+ {
+  "meter_id": "M-000864",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-15"
+ },
+ {
+  "meter_id": "M-000865",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-02-03"
+ },
+ {
+  "meter_id": "M-000866",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-23"
+ },
+ {
+  "meter_id": "M-000867",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-05"
+ },
+ {
+  "meter_id": "M-000868",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-13"
+ },
+ {
+  "meter_id": "M-000869",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-27"
+ },
+ {
+  "meter_id": "M-000870",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2018-07-28"
+ },
+ {
+  "meter_id": "M-000871",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-02-15"
+ },
+ {
+  "meter_id": "M-000872",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-01"
+ },
+ {
+  "meter_id": "M-000873",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-07"
+ },
+ {
+  "meter_id": "M-000874",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-11-21"
+ },
+ {
+  "meter_id": "M-000875",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-10-19"
+ },
+ {
+  "meter_id": "M-000876",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-01-03"
+ },
+ {
+  "meter_id": "M-000877",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-03"
+ },
+ {
+  "meter_id": "M-000878",
+  "district": "sviatoshynskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-02-02"
+ },
+ {
+  "meter_id": "M-000879",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2018-03-19"
+ },
+ {
+  "meter_id": "M-000880",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-08-01"
+ },
+ {
+  "meter_id": "M-000881",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-12"
+ },
+ {
+  "meter_id": "M-000882",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-05-09"
+ },
+ {
+  "meter_id": "M-000883",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-01-20"
+ },
+ {
+  "meter_id": "M-000884",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-10"
+ },
+ {
+  "meter_id": "M-000885",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-03"
+ },
+ {
+  "meter_id": "M-000886",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-07"
+ },
+ {
+  "meter_id": "M-000887",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-11-26"
+ },
+ {
+  "meter_id": "M-000888",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-07-26"
+ },
+ {
+  "meter_id": "M-000889",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-09-26"
+ },
+ {
+  "meter_id": "M-000890",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-07-09"
+ },
+ {
+  "meter_id": "M-000891",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-08"
+ },
+ {
+  "meter_id": "M-000892",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-01-26"
+ },
+ {
+  "meter_id": "M-000893",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2023-10-08"
+ },
+ {
+  "meter_id": "M-000894",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2019-04-22"
+ },
+ {
+  "meter_id": "M-000895",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-19"
+ },
+ {
+  "meter_id": "M-000896",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-06-27"
+ },
+ {
+  "meter_id": "M-000897",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2020-03-08"
+ },
+ {
+  "meter_id": "M-000898",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-01"
+ },
+ {
+  "meter_id": "M-000899",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-19"
+ },
+ {
+  "meter_id": "M-000900",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-08-18"
+ },
+ {
+  "meter_id": "M-000901",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-03"
+ },
+ {
+  "meter_id": "M-000902",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-17"
+ },
+ {
+  "meter_id": "M-000903",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-07"
+ },
+ {
+  "meter_id": "M-000904",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-12-06"
+ },
+ {
+  "meter_id": "M-000905",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-01-01"
+ },
+ {
+  "meter_id": "M-000906",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-28"
+ },
+ {
+  "meter_id": "M-000907",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-02-12"
+ },
+ {
+  "meter_id": "M-000908",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-04"
+ },
+ {
+  "meter_id": "M-000909",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-06"
+ },
+ {
+  "meter_id": "M-000910",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-16"
+ },
+ {
+  "meter_id": "M-000911",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-12-18"
+ },
+ {
+  "meter_id": "M-000912",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-04-22"
+ },
+ {
+  "meter_id": "M-000913",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-07-10"
+ },
+ {
+  "meter_id": "M-000914",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-03-06"
+ },
+ {
+  "meter_id": "M-000915",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-02"
+ },
+ {
+  "meter_id": "M-000916",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-10-08"
+ },
+ {
+  "meter_id": "M-000917",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-08-05"
+ },
+ {
+  "meter_id": "M-000918",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-12"
+ },
+ {
+  "meter_id": "M-000919",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2020-11-03"
+ },
+ {
+  "meter_id": "M-000920",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-08-01"
+ },
+ {
+  "meter_id": "M-000921",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-12-03"
+ },
+ {
+  "meter_id": "M-000922",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-12-01"
+ },
+ {
+  "meter_id": "M-000923",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-12-14"
+ },
+ {
+  "meter_id": "M-000924",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-08-13"
+ },
+ {
+  "meter_id": "M-000925",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-27"
+ },
+ {
+  "meter_id": "M-000926",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-03-15"
+ },
+ {
+  "meter_id": "M-000927",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-05-01"
+ },
+ {
+  "meter_id": "M-000928",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-11"
+ },
+ {
+  "meter_id": "M-000929",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-24"
+ },
+ {
+  "meter_id": "M-000930",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-20"
+ },
+ {
+  "meter_id": "M-000931",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2025-12-01"
+ },
+ {
+  "meter_id": "M-000932",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-14"
+ },
+ {
+  "meter_id": "M-000933",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-07"
+ },
+ {
+  "meter_id": "M-000934",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2024-12-18"
+ },
+ {
+  "meter_id": "M-000935",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-11-10"
+ },
+ {
+  "meter_id": "M-000936",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-01-13"
+ },
+ {
+  "meter_id": "M-000937",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-03-02"
+ },
+ {
+  "meter_id": "M-000938",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-10"
+ },
+ {
+  "meter_id": "M-000939",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-04-04"
+ },
+ {
+  "meter_id": "M-000940",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-11-10"
+ },
+ {
+  "meter_id": "M-000941",
+  "district": "holosiivskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2025-02-10"
+ },
+ {
+  "meter_id": "M-000942",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-22"
+ },
+ {
+  "meter_id": "M-000943",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-03-12"
+ },
+ {
+  "meter_id": "M-000944",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-03-15"
+ },
+ {
+  "meter_id": "M-000945",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-08-09"
+ },
+ {
+  "meter_id": "M-000946",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-10-02"
+ },
+ {
+  "meter_id": "M-000947",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-22"
+ },
+ {
+  "meter_id": "M-000948",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-08"
+ },
+ {
+  "meter_id": "M-000949",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-09-14"
+ },
+ {
+  "meter_id": "M-000950",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2025-10-08"
+ },
+ {
+  "meter_id": "M-000951",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-07-28"
+ },
+ {
+  "meter_id": "M-000952",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-02-25"
+ },
+ {
+  "meter_id": "M-000953",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-04-26"
+ },
+ {
+  "meter_id": "M-000954",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-07-03"
+ },
+ {
+  "meter_id": "M-000955",
+  "district": "obolonskyi",
+  "phase_type": 3,
+  "customer_type": "industrial",
+  "installed_at": "2024-04-27"
+ },
+ {
+  "meter_id": "M-000956",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-06-24"
+ },
+ {
+  "meter_id": "M-000957",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-02-13"
+ },
+ {
+  "meter_id": "M-000958",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-05-17"
+ },
+ {
+  "meter_id": "M-000959",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-12-20"
+ },
+ {
+  "meter_id": "M-000960",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-02-14"
+ },
+ {
+  "meter_id": "M-000961",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-02-19"
+ },
+ {
+  "meter_id": "M-000962",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-09-12"
+ },
+ {
+  "meter_id": "M-000963",
+  "district": "desnianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2022-07-21"
+ },
+ {
+  "meter_id": "M-000964",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-01-06"
+ },
+ {
+  "meter_id": "M-000965",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-20"
+ },
+ {
+  "meter_id": "M-000966",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-01-13"
+ },
+ {
+  "meter_id": "M-000967",
+  "district": "podilskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2023-12-08"
+ },
+ {
+  "meter_id": "M-000968",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-05-12"
+ },
+ {
+  "meter_id": "M-000969",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-09"
+ },
+ {
+  "meter_id": "M-000970",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-05"
+ },
+ {
+  "meter_id": "M-000971",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2025-06-09"
+ },
+ {
+  "meter_id": "M-000972",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-04-15"
+ },
+ {
+  "meter_id": "M-000973",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-12-16"
+ },
+ {
+  "meter_id": "M-000974",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-01-17"
+ },
+ {
+  "meter_id": "M-000975",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-05-23"
+ },
+ {
+  "meter_id": "M-000976",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-09-19"
+ },
+ {
+  "meter_id": "M-000977",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-04-27"
+ },
+ {
+  "meter_id": "M-000978",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-08-02"
+ },
+ {
+  "meter_id": "M-000979",
+  "district": "solomianskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-05-12"
+ },
+ {
+  "meter_id": "M-000980",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-11-04"
+ },
+ {
+  "meter_id": "M-000981",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-06-16"
+ },
+ {
+  "meter_id": "M-000982",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-08-19"
+ },
+ {
+  "meter_id": "M-000983",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-03-27"
+ },
+ {
+  "meter_id": "M-000984",
+  "district": "dniprovskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2019-05-01"
+ },
+ {
+  "meter_id": "M-000985",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2020-10-25"
+ },
+ {
+  "meter_id": "M-000986",
+  "district": "pecherskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2021-11-08"
+ },
+ {
+  "meter_id": "M-000987",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-11-14"
+ },
+ {
+  "meter_id": "M-000988",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-08-05"
+ },
+ {
+  "meter_id": "M-000989",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2018-04-09"
+ },
+ {
+  "meter_id": "M-000990",
+  "district": "shevchenkivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-12-23"
+ },
+ {
+  "meter_id": "M-000991",
+  "district": "holosiivskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-07-28"
+ },
+ {
+  "meter_id": "M-000992",
+  "district": "darnytskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-15"
+ },
+ {
+  "meter_id": "M-000993",
+  "district": "desnianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2024-10-04"
+ },
+ {
+  "meter_id": "M-000994",
+  "district": "dniprovskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2023-09-21"
+ },
+ {
+  "meter_id": "M-000995",
+  "district": "obolonskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-22"
+ },
+ {
+  "meter_id": "M-000996",
+  "district": "pecherskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2019-06-09"
+ },
+ {
+  "meter_id": "M-000997",
+  "district": "podilskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-05-21"
+ },
+ {
+  "meter_id": "M-000998",
+  "district": "sviatoshynskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2022-04-05"
+ },
+ {
+  "meter_id": "M-000999",
+  "district": "solomianskyi",
+  "phase_type": 1,
+  "customer_type": "household",
+  "installed_at": "2021-01-26"
+ },
+ {
+  "meter_id": "M-001000",
+  "district": "shevchenkivskyi",
+  "phase_type": 3,
+  "customer_type": "commercial",
+  "installed_at": "2024-11-11"
+ }
+]

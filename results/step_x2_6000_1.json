@@ -1,0 +1,9 @@
+{
+ "sent": 105000,
+ "elapsed_s": 40.75,
+ "rate_msg_s": 2576.7,
+ "by_kind": {
+  "ok": 105000
+ },
+ "meters": 500
+}

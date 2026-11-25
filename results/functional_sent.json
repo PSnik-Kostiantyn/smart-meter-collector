@@ -1,0 +1,17 @@
+{
+ "sent": 50000,
+ "elapsed_s": 18.46,
+ "rate_msg_s": 2708.4,
+ "by_kind": {
+  "ok": 47491,
+  "schema_error": 303,
+  "out_of_range": 330,
+  "inconsistent_power": 287,
+  "future_timestamp": 310,
+  "invalid_json": 345,
+  "energy_decreased": 312,
+  "unknown_meter": 307,
+  "topic_mismatch": 315
+ },
+ "meters": 1000
+}
