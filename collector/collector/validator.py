@@ -75,6 +75,8 @@ def parse_topic(topic: str) -> tuple[str, str] | None:
         parts = parts[2:]
     if len(parts) != 4 or parts[0] != "meters" or parts[3] != "readings":
         return None
+    if not parts[1] or not parts[2]:
+        return None
     return parts[1], parts[2]
 
 

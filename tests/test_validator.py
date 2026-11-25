@@ -56,6 +56,11 @@ def test_shared_subscription_topic_is_parsed():
     assert parse_topic("meters/obolonskyi/M-1") is None
 
 
+def test_topic_with_empty_parts_is_rejected():
+    assert parse_topic("meters//M-1/readings") is None
+    assert parse_topic("meters/obolonskyi//readings") is None
+
+
 @pytest.mark.parametrize(
     "payload, reason",
     [
